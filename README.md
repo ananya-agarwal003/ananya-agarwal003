@@ -1,4 +1,4 @@
-# 💫 About Me:
+#HI, 💫 I'm Ananya Agarwal
 Final Year ECE Student | Python & Web Developer | Open to SDE Roles
 
 
